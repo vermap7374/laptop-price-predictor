@@ -1,9 +1,9 @@
 # Laptop Price Predictor
 
 This is a **Laptop Price Predictor** application built using **Machine Learning**. The model is trained on a dataset of laptop specifications and their prices and predicts the price based on user input.
----
+
 🚀 **Live Demo:** [Deployed Link Here](https://laptop-predict-price-972b96849081.herokuapp.com/)
----
+
 
 ## 🚀 Features
 - Predicts laptop prices based on specifications like brand, CPU, GPU, RAM, screen size, etc.
